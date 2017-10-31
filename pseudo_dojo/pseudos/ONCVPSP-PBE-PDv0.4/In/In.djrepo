@@ -100197,13 +100197,13 @@ null
 }, 
 "hints": {
 "high": {
-"ecut": 32.0
+"ecut": 30.0
 }, 
 "low": {
-"ecut": 24.0
+"ecut": 22.0
 }, 
 "normal": {
-"ecut": 28.0
+"ecut": 26.0
 }
 }, 
 "md5": "14c00aa7739f81dd9328d3fd9acee09c", 
@@ -100502,7 +100502,7 @@ null
 " "
 ], 
 "validation": {
-"validated_on": "2017-10-25 07:27:53"
+"validated_on": "2017-10-25 07:58:10"
 }, 
 "version": "1.0", 
 "xc": {
